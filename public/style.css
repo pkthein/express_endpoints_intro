@@ -1,0 +1,19 @@
+body {
+  width: 90%;
+  background-color: gray;
+  color: skyblue;
+  margin: 3em auto;
+}
+
+#container { 
+  /* css id */
+  border: solid white 3px;
+  border-radius: 3px;
+  display: flex;
+  margin: 0em auto;
+}
+
+.entry {
+  /* css class */
+  flex-grow: 1;
+}
